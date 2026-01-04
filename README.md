@@ -24,14 +24,6 @@
 
 <br>
 
-## 📈 ESTADÍSTICAS
-
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=VeritoDev&theme=tokyonight" />
-</p>
-
-<br>
-
 ## 🏅 LOGROS Y CURIOSIDADES
 
 #### **Hitos en el camino**
