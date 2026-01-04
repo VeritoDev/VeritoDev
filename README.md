@@ -4,14 +4,14 @@
 ## 👩‍💻 *SOBRE MÍ*
 
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDBwM3lja3BtaXpvZGllem5rZzQwaWhzb3dyamZmZTNubjU4dDExNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif" alt="GIF animado" width="220" align="right">
+
 - 👩‍🏫 Actualmente estoy estudiando **2º de DAM en IES Las Salinas**
 - 💡 Me encanta resolver problemas complejos y optimizar procesos a través del código. 
 - 🚀 Enfocada ahora mismo en perfeccionar **Kotlin, Java y Pyhton**
 - 🎯 Mi objetivo: Convertirme en desarrolladora **Full-Stack**
 <br>
 <br>
-<br>
-<br>
+
 
 > [!IMPORTANT]
 > _"La programación no es sobre escribir código, sino sobre resolver problemas."_ — **Linus Torvalds**
@@ -28,8 +28,7 @@
 Aquí puedes ver un resumen de mi actividad en GitHub:
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VeritoDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VeritoDev&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VeritoDev&show_icons=true" />
 </p>
 
 <br>
