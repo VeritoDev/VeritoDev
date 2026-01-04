@@ -25,10 +25,9 @@
 <br>
 
 ## 📈 ESTADÍSTICAS
-Aquí puedes ver un resumen de mi actividad en GitHub:
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VeritoDev&show_icons=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=VeritoDev&theme=tokyonight" />
 </p>
 
 <br>
