@@ -1,10 +1,6 @@
 # 👩‍💻 Verónica Pardo Martín
 ### Técnica Superior DAM & Desarrolladora Android
 
-<div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDBwM3lja3BtaXpvZGllem5rZzQwaWhzb3dyamZmZTNubjU4dDExNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="150" alt="Tech GIF"/>
-</div>
-
 ---
 
 ## 🚀 `whoami`
@@ -51,5 +47,5 @@ Un **CRM móvil nativo (B2B/B2C)** diseñado para revolucionar la gestión de sa
 
 ## 📫 Conectemos
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#https://www.linkedin.com/in/ver%C3%B3nica-mar%C3%ADa-pardo-mart%C3%ADn-295619241/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:veronicapardo1705@gmail.com)
