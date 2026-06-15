@@ -1,46 +1,55 @@
-# <i>¡Hola, soy Verónica Pardo Martín!</i> 👋
-### 🌱 Técnica Superior DAM | 🚀 Desarrolladora Android y Multiplataforma
+# 👩‍💻 Verónica Pardo Martín
+### Técnica Superior DAM & Desarrolladora Android
 
-## 👩‍💻 *SOBRE MÍ*
+<div align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDBwM3lja3BtaXpvZGllem5rZzQwaWhzb3dyamZmZTNubjU4dDExNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="150" alt="Tech GIF"/>
+</div>
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDBwM3lja3BtaXpvZGllem5rZzQwaWhzb3dyamZmZTNubjU4dDExNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif" alt="GIF animado" width="220" align="right">
+---
 
-- 🎓 **Técnica Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)** por el IES Las Salinas.
-- 💡 Me encanta resolver problemas complejos y optimizar procesos a través del código. 
-- 🚀 Enfocada en perfeccionar **Kotlin, Java y Python**.
-- 🎯 Mi objetivo: Convertirme en desarrolladora **Full-Stack**.
-<br>
-<br>
+## 🚀 `whoami`
 
-> [!IMPORTANT]
-> _"La programación no es sobre escribir código, sino sobre resolver problemas."_ — **Linus Torvalds**
+¡Hola! Soy una apasionada de la tecnología que transforma problemas complejos en soluciones digitales eficientes. Recientemente graduada de DAM, mi foco actual es la creación de aplicaciones nativas escalables y limpias.
 
-<br>
+- 🎯 **Misión:** Evolucionar hacia el desarrollo **Full-Stack**.
+- ⚡ **Enfoque:** Arquitecturas limpias (MVVM) y diseño centrado en el usuario.
+- 📚 **Aprendiendo:** Siempre mejorando en **Kotlin, Java y Python**.
 
-## 🛠️ TECNOLOGÍAS Y HERRAMIENTAS
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![XML](https://img.shields.io/badge/XML-%23008080.svg?style=for-the-badge&logo=xml&logoColor=white)
+> *"La programación no es sobre escribir código, sino sobre resolver problemas."* — **Linus Torvalds**
 
-<br>
+---
 
-## 🌟 PROYECTO DESTACADO
-**[✂️ Stylo - CRM para Salones de Belleza](https://github.com/VeritoDev/STYLO_CRM)**  
-Aplicación móvil nativa para Android (B2B/B2C) con arquitectura MVVM, integración con Firebase, control de acceso por roles (RBAC) y soporte bilingüe.
+## 💻 Mi Stack Tecnológico
 
-<br>
+| 📱 Desarrollo Móvil | ⚙️ Backend & Data | 🎨 Diseño & Herramientas |
+| :--- | :--- | :--- |
+| ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white&style=flat) | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat) | ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat) |
+| ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=java&logoColor=white&style=flat) | ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat) | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat) |
+| ![Android Studio](https://img.shields.io/badge/-Android_Studio-3DDC84?logo=android-studio&logoColor=white&style=flat) | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat) | ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat) |
 
-## 🏅 LOGROS Y CURIOSIDADES
+---
 
-#### **Hitos en el camino**
-- 🎓 **Grado Superior Completado:** Título obtenido tras desarrollar una aplicación B2B nativa desde cero.
-- 📱 **Desarrollo Android:** Creación de interfaces, arquitectura MVVM y persistencia de datos.
-- 💾 **Dominio de Bases de Datos:** Diseño e implementación de esquemas relacionales (SQL) y NoSQL.
+## 🏆 Proyecto Destacado: STYLO
 
-![Desarrolladora en crecimiento](https://img.shields.io/badge/Desarrolladora-en%20crecimiento-blue?style=flat-square)  
-![Amante del café](https://img.shields.io/badge/Amante%20del%20café-%E2%98%95-yellow?style=flat-square)
-![Open Source Enthusiast](https://img.shields.io/badge/Open%20Source-Enthusiast-green?style=flat-square)
-![Clean Code Learner](https://img.shields.io/badge/Clean%20Code-Learner-red?style=flat-square)
+Un **CRM móvil nativo (B2B/B2C)** diseñado para revolucionar la gestión de salones de belleza.
 
-## 📫 CONTACTO
-Si quieres colaborar en algún proyecto o simplemente saludar:
+*   **Arquitectura:** MVVM para un código de fácil mantenimiento.
+*   **Base de Datos:** Integración robusta en tiempo real con Firebase.
+*   **Seguridad:** Control de acceso por roles (RBAC).
+*   **🔗 [Explorar el Repositorio de STYLO](https://github.com/VeritoDev/STYLO_CRM)**
+
+---
+
+## 📈 Mis Estadísticas en GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VeritoDev&show_icons=true&theme=radical" alt="Estadísticas de GitHub" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VeritoDev&layout=compact&theme=radical" alt="Lenguajes más usados" height="150"/>
+</div>
+
+---
+
+## 📫 Conectemos
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:veronicapardo1705@gmail.com)
